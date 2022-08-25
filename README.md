@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="512" height="512" src="github.png">
+  <img width="300" height="300" src="github.png">
 </p>
 
-
+### Hello, world!
 <!--
 **avichalp/avichalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
